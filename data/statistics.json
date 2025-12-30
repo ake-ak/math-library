@@ -1,0 +1,126 @@
+{
+  "hero": {
+    "title": "Statistics",
+    "subtitle": "The mathematics of data. Learn probability, distributions, and inference."
+  },
+  "sections": [
+    {
+      "title": "Course Status",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Status: Active"
+        }
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Algebra and basic probability concepts. Understanding of functions and graphs recommended."
+        }
+      ]
+    },
+    {
+      "title": "Learning Objectives",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Upon completing this course, you will be able to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Understand probability and probability distributions",
+            "Describe and analyze data with descriptive statistics",
+            "Make inferences using estimation and hypothesis testing",
+            "Understand and apply regression and correlation",
+            "Apply statistical thinking to real-world problems"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Course Modules",
+      "articles": [
+        {
+          "title": "Module 1: Probability Foundations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Basic probability concepts. Conditional probability. Independence and dependence."
+            }
+          ]
+        },
+        {
+          "title": "Module 2: Common Probability Distributions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Binomial, normal, and other distributions. Properties and applications."
+            }
+          ]
+        },
+        {
+          "title": "Module 3: Descriptive Statistics",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Summarizing data. Measures of center and spread. Visualization and interpretation."
+            }
+          ]
+        },
+        {
+          "title": "Module 4: Estimation and Confidence Intervals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Point and interval estimation. Confidence intervals. Standard error and margin of error."
+            }
+          ]
+        },
+        {
+          "title": "Module 5: Hypothesis Testing",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Formulating hypotheses. Test statistics and p-values. Type I and II errors."
+            }
+          ]
+        },
+        {
+          "title": "Module 6: Regression and Correlation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Correlation analysis. Linear regression. Interpretation and applications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani",
+            "Statistical Rethinking by Richard McElreath",
+            "The Signal and the Noise by Nate Silver"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Discussion",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Have questions about statistics? Join our discussion forum to ask for help and discuss statistical concepts."
+        }
+      ]
+    }
+  ]
+}

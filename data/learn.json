@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Learn Mathematics",
+    "subtitle": "Structured learning paths designed to build deep understanding from foundations to advanced topics."
+  },
+  "sections": [
+    {
+      "title": "Learning Paths",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mathematics is best learned through structured progression. Each learning path builds from foundational concepts to increasingly sophisticated topics."
+        },
+        {
+          "type": "paragraph",
+          "text": "Choose a path below to begin your mathematical journey. Each path includes courses, modules, and resources carefully organized for effective learning."
+        }
+      ]
+    },
+    {
+      "title": "Mathematics",
+      "articles": [
+        {
+          "title": "Comprehensive Math Path",
+          "content": "Start with algebra and progress through geometry, calculus, and statistics. Build a strong foundation in core mathematical concepts."
+        }
+      ]
+    },
+    {
+      "title": "Coming Soon",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We're working on additional learning paths to expand beyond core mathematics. Future paths will include:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Linear Algebra and Matrix Theory",
+            "Discrete Mathematics and Logic",
+            "Number Theory and Cryptography",
+            "Topology and Abstract Structures"
+          ]
+        }
+      ]
+    }
+  ]
+}

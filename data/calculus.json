@@ -1,0 +1,126 @@
+{
+  "hero": {
+    "title": "Calculus",
+    "subtitle": "The mathematics of change. Learn limits, derivatives, and integrals."
+  },
+  "sections": [
+    {
+      "title": "Course Status",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Status: Active"
+        }
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Algebra and Geometry. Familiarity with functions, polynomial equations, and trigonometry recommended."
+        }
+      ]
+    },
+    {
+      "title": "Learning Objectives",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Upon completing this course, you will be able to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Understand and work with limits and continuity",
+            "Compute and apply derivatives",
+            "Compute and apply integrals",
+            "Apply calculus to optimization and real-world problems",
+            "Understand differential equations and series"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Course Modules",
+      "articles": [
+        {
+          "title": "Module 1: Limits and Continuity",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Foundations of calculus. Understanding limits formally. Continuity and why it matters."
+            }
+          ]
+        },
+        {
+          "title": "Module 2: Differentiation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The derivative as a rate of change. Rules of differentiation. Computing derivatives."
+            }
+          ]
+        },
+        {
+          "title": "Module 3: Applications of Differentiation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Curve sketching. Optimization. Motion and rates. Applications to real-world problems."
+            }
+          ]
+        },
+        {
+          "title": "Module 4: Integration",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Antiderivatives. The integral. Fundamental Theorem of Calculus. Computing integrals."
+            }
+          ]
+        },
+        {
+          "title": "Module 5: Applications of Integration",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Area and volume. Arc length. Work and other physical applications."
+            }
+          ]
+        },
+        {
+          "title": "Module 6: Differential Equations and Series",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Introduction to differential equations. Sequences and series. Convergence and Taylor series."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Calculus by Michael Spivak",
+            "The Calculus by Louis Brand",
+            "What is Mathematics? by Richard Courant and Herbert Robbins"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Discussion",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Have questions about calculus? Join our discussion forum to ask for help and collaborate with other learners."
+        }
+      ]
+    }
+  ]
+}

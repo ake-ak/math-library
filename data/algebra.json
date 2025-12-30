@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "title": "Algebra",
+    "subtitle": "The language of mathematics. Learn to work with variables, equations, and functions."
+  },
+  "sections": [
+    {
+      "title": "Course Status",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Status: Active"
+        }
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Basic arithmetic and number sense. Familiarity with fractions and decimals recommended."
+        }
+      ]
+    },
+    {
+      "title": "Learning Objectives",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Upon completing this course, you will be able to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Solve linear and quadratic equations",
+            "Work with polynomials and rational expressions",
+            "Understand and use functions",
+            "Graph equations and interpret graphs",
+            "Apply algebra to real-world problems"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Course Modules",
+      "articles": [
+        {
+          "title": "Module 1: Foundations of Algebra",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Variables, expressions, and equations. Order of operations. Properties of real numbers."
+            }
+          ]
+        },
+        {
+          "title": "Module 2: Linear Equations and Systems",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Solving linear equations. Systems of equations. Applications of linear relationships."
+            }
+          ]
+        },
+        {
+          "title": "Module 3: Polynomials and Rational Expressions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Polynomial operations. Factoring. Rational expressions and equations."
+            }
+          ]
+        },
+        {
+          "title": "Module 4: Exponential and Logarithmic Functions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Exponential growth and decay. Logarithmic functions. Applications to real-world phenomena."
+            }
+          ]
+        },
+        {
+          "title": "Module 5: Introduction to Abstract Algebra",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Beyond numbers—exploring algebraic structures and generalizations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Fundamentals of Algebra by Henry Burchard Fine",
+            "Algebra by Michael Artin",
+            "The Art and Craft of Problem Solving by Paul Zeitz"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Discussion",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Have questions about algebra? Join our discussion forum to ask for help, share insights, and learn with others."
+        }
+      ]
+    }
+  ]
+}

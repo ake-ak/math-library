@@ -1,0 +1,126 @@
+{
+  "hero": {
+    "title": "Geometry",
+    "subtitle": "The mathematics of space and shape. Explore figures, transformations, and spatial relationships."
+  },
+  "sections": [
+    {
+      "title": "Course Status",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Status: Active"
+        }
+      ]
+    },
+    {
+      "title": "Prerequisites",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Basic algebra and understanding of coordinate systems. Intuitive understanding of space and shape."
+        }
+      ]
+    },
+    {
+      "title": "Learning Objectives",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Upon completing this course, you will be able to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Understand and work with geometric figures and their properties",
+            "Apply geometric theorems and proofs",
+            "Calculate area, perimeter, and volume",
+            "Understand transformations and symmetry",
+            "Apply coordinate geometry and trigonometry"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Course Modules",
+      "articles": [
+        {
+          "title": "Module 1: Foundational Concepts",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Points, lines, and planes. Angles and angle relationships. Parallel and perpendicular lines."
+            }
+          ]
+        },
+        {
+          "title": "Module 2: Triangles and Congruence",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Triangle properties. Congruence criteria. Triangle theorems and applications."
+            }
+          ]
+        },
+        {
+          "title": "Module 3: Polygons and Circles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Properties of polygons. Circle theorems. Inscribed and circumscribed figures."
+            }
+          ]
+        },
+        {
+          "title": "Module 4: Area, Perimeter, and Volume",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Measuring two-dimensional and three-dimensional figures. Surface area and volume calculations."
+            }
+          ]
+        },
+        {
+          "title": "Module 5: Transformations and Symmetry",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Translations, rotations, reflections. Symmetry and patterns. Similarity and dilation."
+            }
+          ]
+        },
+        {
+          "title": "Module 6: Coordinate Geometry and Beyond",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The coordinate plane. Distance and midpoint formulas. Slopes and lines. Introduction to analytic geometry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Elements by Euclid",
+            "Geometry by David A. Brandon",
+            "Geometry Revisited by H. S. M. Coxeter and S. L. Greitzer"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Discussion",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Have questions about geometry? Join our discussion forum to ask for help and explore geometric ideas with others."
+        }
+      ]
+    }
+  ]
+}

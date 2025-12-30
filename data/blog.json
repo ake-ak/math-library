@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Math Blog",
+    "subtitle": "Featured articles on mathematics, education, and the philosophy of mathematical learning."
+  },
+  "sections": [
+    {
+      "title": "Featured Articles",
+      "articles": [
+        {
+          "title": "The Timelessness of Mathematical Truth",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Published December 2024 — Mathematical truths are eternal. The Pythagorean theorem is as true today as it was in ancient Greece. This timelessness is what makes mathematics remarkable."
+            }
+          ]
+        },
+        {
+          "title": "Learning Mathematics: Depth Over Speed",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Published November 2024 — Why rushing through mathematics often leads to poor understanding. The best mathematical learning happens when we slow down and build deep intuition."
+            }
+          ]
+        },
+        {
+          "title": "The Beauty of Elegant Proofs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Published October 2024 — Some proofs are elegant, efficient, and beautiful. Others are clunky and laborious. We explore what makes a proof truly elegant."
+            }
+          ]
+        },
+        {
+          "title": "Mathematics as Universal Language",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Published September 2024 — Why mathematics is the closest thing we have to a universal language, transcending culture, geography, and time."
+            }
+          ]
+        },
+        {
+          "title": "Building Intuition in Abstract Mathematics",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Published August 2024 — How do we develop intuition in abstract mathematics? Strategies for building understanding beyond memorization."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "About This Blog",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This blog features articles exploring mathematics, mathematical pedagogy, and the philosophy of mathematical education. We share insights about learning, understanding, and the beauty of mathematical ideas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interested in contributing? We welcome submissions from mathematicians, educators, and learners. Email us at Ake.coe.aki@gmail.com with your article ideas."
+        }
+      ]
+    }
+  ]
+}

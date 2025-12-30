@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Discussion & Community",
+    "subtitle": "Join our community to ask questions, share insights, and discuss mathematics."
+  },
+  "sections": [
+    {
+      "title": "Join the Conversation",
+      "articles": [
+        {
+          "title": "GitHub Discussions & Issues",
+          "content": "Our primary platform for discussion. Ask questions, share ideas, and collaborate on GitHub. Access our repository for technical discussions."
+        },
+        {
+          "title": "Email",
+          "content": "Prefer email? Reach us at Ake.coe.aki@gmail.com. We read and respond to all messages."
+        }
+      ]
+    },
+    {
+      "title": "Community Guidelines",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Be Respectful — Treat others with dignity. We welcome all perspectives.",
+            "Be Clear — Ask and answer questions as clearly as possible.",
+            "Be Honest — Acknowledge when you don't know something. Admit mistakes.",
+            "Give Attribution — Credit those whose work you build upon.",
+            "Stay on Topic — Keep discussions focused on mathematics and learning.",
+            "No Spam or Harassment — Keep the community safe and welcoming."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Getting Help",
+      "articles": [
+        {
+          "title": "Ask a Question",
+          "content": "Stuck on a concept? Don't understand a proof? Ask in the discussion forum. Include what you've tried and where you're stuck."
+        },
+        {
+          "title": "Share an Insight",
+          "content": "Discovered a neat way to think about a concept? Share it! Help others understand by explaining what helped you."
+        },
+        {
+          "title": "Report a Problem",
+          "content": "Found an error or unclear explanation? Let us know on GitHub or via email so we can improve."
+        },
+        {
+          "title": "Suggest Improvements",
+          "content": "Have ideas for new topics, features, or content? We'd love to hear your suggestions."
+        }
+      ]
+    },
+    {
+      "title": "Recent Discussion Topics",
+      "articles": [
+        {
+          "title": "Understanding Limits",
+          "content": "A discussion about intuitive approaches to learning limits. How do different people develop understanding?"
+        },
+        {
+          "title": "Proof Techniques",
+          "content": "Exploring different approaches to mathematical proofs. What makes a proof elegant or difficult?"
+        },
+        {
+          "title": "Real-World Applications",
+          "content": "Discussing how algebra, calculus, and statistics apply to real-world problems. Share your examples!"
+        },
+        {
+          "title": "Learning Strategies",
+          "content": "What strategies work best for learning mathematics? How do you build intuition?"
+        }
+      ]
+    }
+  ]
+}

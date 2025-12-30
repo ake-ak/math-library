@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Math Library",
+    "subtitle": "A timeless repository of mathematical knowledge, dedicated to preservation, accessibility, and learning."
+  },
+  "sections": [
+    {
+      "title": "Welcome",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mathematics is the universal language of logic, pattern, and truth. It has been the foundation of human understanding for millennia, and it remains as relevant and beautiful today as it ever was."
+        },
+        {
+          "type": "paragraph",
+          "text": "Math Library exists to preserve and share mathematical knowledge in a way that is clear, accessible, and timeless. We believe that great mathematics deserves to be presented with clarity and rigor, free from commercial pressure or technological trends."
+        }
+      ]
+    },
+    {
+      "title": "Core Resources",
+      "articles": [
+        {
+          "title": "Learn",
+          "content": "Explore structured learning paths designed to build mathematical understanding from foundations to advanced topics. Our courses cover algebra, geometry, calculus, and statistics with clarity and rigor."
+        },
+        {
+          "title": "Courses",
+          "content": "Comprehensive mathematics courses organized into modules with learning objectives, topics, and references. Each course is designed to support deep understanding."
+        },
+        {
+          "title": "Discussion",
+          "content": "Join our community to ask questions, share insights, and discuss mathematics. Participate via GitHub Discussions or email."
+        },
+        {
+          "title": "Blog",
+          "content": "Read featured articles on mathematics, pedagogy, and the philosophy of mathematical education. Discover the beauty and meaning behind mathematical truths."
+        }
+      ]
+    },
+    {
+      "title": "Our Philosophy",
+      "articles": [
+        {
+          "title": "Content Over Presentation",
+          "content": "We prioritize clear, rigorous content over flashy design. No unnecessary animations or complex interfaces—just knowledge, well organized."
+        },
+        {
+          "title": "Preservation Over Trends",
+          "content": "Built for permanence. Using semantic HTML and web standards that will remain accessible for decades. Math Library won't become obsolete."
+        },
+        {
+          "title": "Accessibility Over Gates",
+          "content": "Free, open, and available to everyone. Mathematical knowledge is a public good, not a commodity."
+        },
+        {
+          "title": "Community Over Consumption",
+          "content": "Built together by mathematicians, educators, and learners. We invite contributions and welcome discourse."
+        }
+      ]
+    },
+    {
+      "title": "Getting Started",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "New to Math Library? Here's how to begin:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Explore a course that interests you in the Courses section",
+            "Follow the structured learning path for your topic",
+            "Read blog articles to deepen your understanding",
+            "Join the Discussion to connect with other learners"
+          ]
+        }
+      ]
+    }
+  ]
+}

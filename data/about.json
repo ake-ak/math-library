@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "About Math Library",
+    "subtitle": "Understanding our mission, values, and approach to mathematics education."
+  },
+  "sections": [
+    {
+      "title": "Our Mission",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Preserve mathematical knowledge for future generations",
+            "Make high-quality mathematics education freely accessible",
+            "Promote clarity and rigor in mathematical exposition",
+            "Build a community of mathematicians, educators, and learners",
+            "Demonstrate that mathematical knowledge can be shared sustainably"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Core Values",
+      "articles": [
+        {
+          "title": "Accessibility",
+          "content": "Mathematics belongs to everyone. We're committed to making our resources free and available to all, regardless of geography or resources."
+        },
+        {
+          "title": "Rigor",
+          "content": "Mathematical truth requires precision and care. We maintain high standards for accuracy, clarity of definitions, and soundness of proofs."
+        },
+        {
+          "title": "Preservation",
+          "content": "Knowledge should be preserved for future generations. We build with sustainable practices and standards that will endure."
+        },
+        {
+          "title": "Community",
+          "content": "The best learning happens together. We invite contributions, welcome discussion, and celebrate collaborative knowledge building."
+        },
+        {
+          "title": "Clarity",
+          "content": "Mathematics should be understandable. We write for clarity without sacrificing rigor, making complex ideas accessible."
+        }
+      ]
+    },
+    {
+      "title": "Our Approach",
+      "articles": [
+        {
+          "title": "Content Over Presentation",
+          "content": "We prioritize clear, rigorous content over flashy design. The design serves the content, not the other way around."
+        },
+        {
+          "title": "Depth Over Breadth",
+          "content": "We focus on deep understanding of core topics rather than superficial coverage. Better to know a few things well than many things poorly."
+        },
+        {
+          "title": "Preservation Over Trends",
+          "content": "Built for permanence, not for today's fashion. Our website uses semantic HTML and web standards that will remain relevant for decades."
+        },
+        {
+          "title": "Open Over Commercial",
+          "content": "No paywalls, no algorithms, no advertising. Math Library is a public resource, maintained for the benefit of all."
+        }
+      ]
+    },
+    {
+      "title": "Community Contributors",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Math Library is built by a community of contributors. If you've contributed content, feedback, or ideas, thank you for helping build this resource."
+        }
+      ]
+    },
+    {
+      "title": "History & Development",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Math Library was founded on the belief that mathematical knowledge should be organized, preserved, and shared freely. We're inspired by the great universities, public libraries, and open knowledge projects that came before us."
+        }
+      ]
+    }
+  ]
+}

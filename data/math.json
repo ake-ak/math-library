@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Mathematics Learning Path",
+    "subtitle": "A comprehensive journey through core mathematics topics, from foundational concepts to advanced applications."
+  },
+  "sections": [
+    {
+      "title": "Overview",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Mathematics learning path is designed to build a complete understanding of core mathematical topics. Starting with algebra and progressing through geometry, calculus, and statistics, each topic builds upon previous knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "This path is suitable for students seeking comprehensive mathematical education, from high school through early undergraduate level."
+        }
+      ]
+    },
+    {
+      "title": "Topics",
+      "articles": [
+        {
+          "title": "Algebra",
+          "content": "The language of mathematics. Learn to work with variables, equations, functions, and polynomials. Algebra is the foundation for all advanced mathematics."
+        },
+        {
+          "title": "Geometry",
+          "content": "The mathematics of space and shape. Explore triangles, circles, polygons, and three-dimensional figures. Understand spatial relationships and proofs."
+        },
+        {
+          "title": "Calculus",
+          "content": "The mathematics of change. Study limits, derivatives, integrals, and series. Calculus is essential for understanding rates of change and accumulation."
+        },
+        {
+          "title": "Statistics",
+          "content": "The mathematics of data. Learn probability, distributions, inference, and correlation. Statistics is crucial for understanding data and making evidence-based decisions."
+        }
+      ]
+    },
+    {
+      "title": "How to Use This Path",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Follow these steps for effective learning:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Start with Algebra—establish your mathematical foundation",
+            "Progress to Geometry—develop spatial reasoning",
+            "Study Calculus—understand the mathematics of change",
+            "Complete Statistics—learn to work with data"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Future Expansions",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As Math Library grows, we plan to add more advanced topics to this and other learning paths:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Linear Algebra",
+            "Discrete Mathematics",
+            "Number Theory",
+            "Abstract Algebra",
+            "Real and Complex Analysis",
+            "Topology"
+          ]
+        }
+      ]
+    }
+  ]
+}

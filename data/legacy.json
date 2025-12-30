@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "title": "Legacy & Philosophy",
+    "subtitle": "Understanding the principles, historical inspiration, and long-term vision behind Math Library."
+  },
+  "sections": [
+    {
+      "title": "Our Philosophy",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Math Library was built on the conviction that mathematical knowledge should be preserved, organized, and made accessible in a timeless way—independent of trends, technologies, or commercial pressures."
+        }
+      ]
+    },
+    {
+      "title": "Core Principles",
+      "articles": [
+        {
+          "title": "On Knowledge Preservation",
+          "content": "Mathematics is humanity's most universal language. Mathematical knowledge deserves to be preserved with the same care given to cultural heritage. Too much educational content today is ephemeral. We're building Math Library to last."
+        },
+        {
+          "title": "On Clarity Over Novelty",
+          "content": "There's a temptation to add features and complexity. We resist this. Our design is purposefully minimal. Just clear explanations and knowledge organized for understanding."
+        },
+        {
+          "title": "On Accessibility",
+          "content": "Mathematical education shouldn't be gated by paywalls or proprietary platforms. Math Library is free, open, and accessible to anyone with an internet connection."
+        },
+        {
+          "title": "On Community",
+          "content": "The greatest educational resources are built by communities. We invite mathematicians, teachers, and learners to contribute, review, and improve together."
+        }
+      ]
+    },
+    {
+      "title": "Historical Inspiration",
+      "articles": [
+        {
+          "title": "The Ancient University",
+          "content": "The early universities (Oxford, Cambridge, Bologna) organized knowledge with remarkable clarity. Mathematics was central. They created lasting frameworks for understanding."
+        },
+        {
+          "title": "The Public Library",
+          "content": "Public libraries embody a beautiful principle: knowledge is a public good. Librarians organize, preserve, and make information accessible to everyone."
+        },
+        {
+          "title": "The Curriculum",
+          "content": "Before the internet, curricula were carefully designed learning paths that progressed logically from foundations to advanced topics. We believe structured learning paths remain valuable."
+        },
+        {
+          "title": "The Textbook",
+          "content": "Great textbooks remain relevant for decades or centuries. Euclid's Elements, Newton's Principia—still read because they combine rigor with clarity. We write for permanence."
+        },
+        {
+          "title": "The Repository",
+          "content": "Open-access repositories like arXiv revolutionized scientific communication. We're inspired by this model: building an open repository of mathematical knowledge."
+        }
+      ]
+    },
+    {
+      "title": "Long-Term Vision",
+      "articles": [
+        {
+          "title": "Comprehensive Coverage",
+          "content": "Starting with foundational mathematics, we'll expand to more advanced topics. The goal is a comprehensive resource covering mathematics education from high school through graduate level."
+        },
+        {
+          "title": "Multimedia Resources",
+          "content": "While keeping design minimal, we want to add diagrams, visualizations, worked examples, videos, and problem sets."
+        },
+        {
+          "title": "Community Growth",
+          "content": "We're building infrastructure for a growing community where people learn, contribute, discuss, and collaborate."
+        },
+        {
+          "title": "Multiple Languages",
+          "content": "Mathematical knowledge is universal. Eventually, we want to translate Math Library into multiple languages."
+        },
+        {
+          "title": "Permanence & Preservation",
+          "content": "We're exploring ways to ensure Math Library remains accessible: partnerships with archival organizations, redundant hosting, open-source code."
+        }
+      ]
+    },
+    {
+      "title": "A Call to Action",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Math Library is not a solo project. It's an invitation to build something permanent together. If you share our vision, we invite you to:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Learn from our resources",
+            "Discuss mathematics with our community",
+            "Contribute your own content and expertise",
+            "Help us reach others",
+            "Imagine with us what mathematics education could be"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Closing Thought",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In 1440, Gutenberg's printing press made books reproducible and knowledge shareable at scale. In 1971, Project Gutenberg began digitizing books to preserve them. In 1995, Wikipedia began organizing knowledge collaboratively."
+        },
+        {
+          "type": "paragraph",
+          "text": "Math Library is part of this lineage. We're using tools available to us to preserve and organize mathematical knowledge. We're building a resource we hope will be useful today and relevant for generations to come."
+        }
+      ]
+    }
+  ]
+}

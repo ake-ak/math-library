@@ -1,0 +1,148 @@
+{
+  "hero": {
+    "title": "Contribute to Math Library",
+    "subtitle": "Help build and improve our mathematical knowledge base. We welcome contributions from mathematicians, educators, and learners."
+  },
+  "sections": [
+    {
+      "title": "Ways to Contribute",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Math Library is built by its community. Here are the main ways you can contribute:"
+        }
+      ]
+    },
+    {
+      "title": "Contribution Types",
+      "articles": [
+        {
+          "title": "Improve Existing Content",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Found a typo, unclear explanation, or error? Help us improve!"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Suggest clarifications or alternative explanations",
+                "Report mathematical errors",
+                "Improve formatting or organization",
+                "Add examples or worked problems",
+                "Update references or add new citations"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Write New Content",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Interested in writing for Math Library? We welcome:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "New lessons or modules for existing courses",
+                "Entirely new courses or learning paths",
+                "Blog articles on mathematics or pedagogy",
+                "Study guides or worked examples",
+                "Reference materials or tables"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Share Resources",
+          "content": "Know of excellent books, papers, or resources that should be referenced? Share them with us. We're always looking for quality materials to recommend."
+        },
+        {
+          "title": "Participate in Discussion",
+          "content": "Ask questions, answer others, and share insights in our Discussion forum. Community engagement strengthens everyone's learning."
+        },
+        {
+          "title": "Report Issues",
+          "content": "Found a broken link, confusing explanation, or technical problem? Report it on GitHub or email us. These reports help us maintain quality."
+        },
+        {
+          "title": "Suggest Features or Topics",
+          "content": "Have ideas for new courses or ways to improve the platform? We'd love to hear them. Discussion about future directions is always welcome."
+        }
+      ]
+    },
+    {
+      "title": "Content Guidelines",
+      "articles": [
+        {
+          "title": "Clarity First",
+          "content": "Write for understanding. Use clear, concrete language. Explain technical terms. Build from first principles."
+        },
+        {
+          "title": "Rigor Matters",
+          "content": "Be mathematically precise. Definitions should be clear. Claims should be justified. Proofs should be sound."
+        },
+        {
+          "title": "Structure for Discovery",
+          "content": "Use clear headings, logical organization, and appropriate emphasis. Readers should understand the structure at a glance."
+        },
+        {
+          "title": "Cite Your Sources",
+          "content": "Reference where ideas come from. This honors those who came before and helps readers explore further."
+        },
+        {
+          "title": "Permanence in Mind",
+          "content": "Write for longevity. Avoid trendy language or examples that will quickly become dated. Focus on enduring principles."
+        }
+      ]
+    },
+    {
+      "title": "Get in Touch",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ready to contribute? Here's how to get started:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Contact us at Ake.coe.aki@gmail.com with a brief description of what you'd like to contribute",
+            "We'll respond with feedback and discuss scope and style",
+            "You'll write your contribution, keeping our guidelines in mind",
+            "We'll review your work and provide constructive feedback",
+            "Once finalized, we'll integrate your contribution into Math Library"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attribution & Credit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "All contributors are credited for their work. Depending on the contribution, you may receive:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Author attribution on the contributed content",
+            "A profile in our community contributors section",
+            "Links to your personal site or social media",
+            "Recognition in announcements"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Thank You",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Math Library exists because people care about mathematical knowledge. We're grateful for every contribution, no matter how small. Together, we're building a permanent resource for mathematics."
+        }
+      ]
+    }
+  ]
+}

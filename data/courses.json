@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "Available Courses",
+    "subtitle": "Mathematics courses organized with learning objectives, modules, and resources."
+  },
+  "sections": [
+    {
+      "title": "Active Courses",
+      "articles": [
+        {
+          "title": "Algebra",
+          "content": "Foundations of algebraic thinking. Master equations, functions, and polynomials."
+        },
+        {
+          "title": "Geometry",
+          "content": "Explore shapes, spaces, and spatial relationships. Understand geometric proofs and properties."
+        },
+        {
+          "title": "Calculus",
+          "content": "Learn limits, derivatives, and integrals. Understand the mathematics of change and accumulation."
+        },
+        {
+          "title": "Statistics",
+          "content": "Probability, distributions, and inference. Learn to analyze data and make evidence-based conclusions."
+        }
+      ]
+    },
+    {
+      "title": "Upcoming Courses",
+      "articles": [
+        {
+          "title": "Linear Algebra",
+          "content": "Matrices, vectors, and linear transformations. Essential for advanced mathematics and applications."
+        },
+        {
+          "title": "Discrete Mathematics",
+          "content": "Logic, sets, combinatorics, and graph theory. Foundations for computer science and discrete structures."
+        }
+      ]
+    },
+    {
+      "title": "Course Structure",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Each course is organized into modules, covering specific topics with clear learning objectives. Modules include:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Learning objectives—what you will understand",
+            "Module content—topics covered",
+            "References—books and materials for deeper learning",
+            "Exercises—problems to practice and solidify understanding"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How to Choose a Course",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Start with Algebra if you're building a foundation. Progress through the sequence for comprehensive understanding. Use the Mathematics learning path for guided progression."
+        }
+      ]
+    }
+  ]
+}
